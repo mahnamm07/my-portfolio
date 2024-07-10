@@ -1,0 +1,39 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(43, 120, 156)
+;
+}
+h1{
+    font-family:callibri;
+    font-size: 32px;
+    color:rgb(30, 255, 0)
+    
+
+ 
+}
+img{
+    width:200px;
+    padding-right: 10px;
+}
+.bold-text {
+    font-weight:bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.social-media img {
+    width: 30px; 
+    height: 30px;
+    vertical-align: middle;
+
+}
+.icon {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+.social-media {
+    padding-top: 5%;
+}
